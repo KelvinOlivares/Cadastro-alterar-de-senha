@@ -1,4 +1,4 @@
-# CadastroSenha Pro
+# Cadastro e alteração de Senha
 
 ## Tela de Cadastro e Alteração de Senha Avançada
 
