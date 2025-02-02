@@ -1,5 +1,3 @@
-# Cadastro e alteração de Senha
-
 ## Tela de Cadastro e Alteração de Senha Avançada
 
 CadastroSenha Pro é uma aplicação web moderna e responsiva para gerenciamento de cadastro e senhas de usuários. Desenvolvida com HTML, CSS e JavaScript, esta aplicação oferece uma interface intuitiva e recursos avançados de segurança.
