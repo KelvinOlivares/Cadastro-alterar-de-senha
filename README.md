@@ -46,5 +46,5 @@ CadastroSenha Pro é uma aplicação web moderna e responsiva para gerenciamento
 5. Ao submeter o formulário, os dados são validados.
 6. Feedback é fornecido ao usuário (sucesso ou erro).
 
-![imagem_2025-02-02_183009140](https://github.com/user-attachments/assets/21c198b6-1cf2-4a66-a74c-a63a1112972d)
 ![Captura de tela 2025-02-02 181807](https://github.com/user-attachments/assets/d8d696a6-e92a-464d-9315-41c5723f1ba1)
+![imagem_2025-02-02_183009140](https://github.com/user-attachments/assets/21c198b6-1cf2-4a66-a74c-a63a1112972d)
